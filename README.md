@@ -1,4 +1,6 @@
 Intoduction: 
+
+
 La poule qui chante, une entreprise française d’agroalimentaire. Elle souhaite se développer à l'international.
 L’objectif sera de proposer une première analyse des groupements de pays que l’on peut cibler pour exporter les poulets. Nous approfondirons ensuite l'étude de marché. 
 Pour répondre à ce besoin on va utiliser, la méthode des kmeans,. Ensuite, utiliser, la classification ascendante hiérarchique avec un dendrogramme comme visualisation afin d’affiner l’analyse et comparer les résultats des deux méthodes de clustering. 
